@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sahana2803/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sahana2803/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sahana2803/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Sahana2803/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Sahana2803/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
