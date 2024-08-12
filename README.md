@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahana2803/Leetcode/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahana2803/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
