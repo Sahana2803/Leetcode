@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahana2803/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Sahana2803/Leetcode/tree/master/0066-plus-one) |
+| [1835-decode-xored-permutation](https://github.com/Sahana2803/Leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1835-decode-xored-permutation](https://github.com/Sahana2803/Leetcode/tree/master/1835-decode-xored-permutation) |
 <!---LeetCode Topics End-->
