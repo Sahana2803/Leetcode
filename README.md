@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sahana2803/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Sahana2803/Leetcode/tree/master/0066-plus-one) |
 | [1835-decode-xored-permutation](https://github.com/Sahana2803/Leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1835-decode-xored-permutation](https://github.com/Sahana2803/Leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
