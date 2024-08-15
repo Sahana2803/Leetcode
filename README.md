@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sahana2803/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sahana2803/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahana2803/Leetcode/tree/master/0047-permutations-ii) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
