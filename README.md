@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahana2803/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahana2803/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahana2803/Leetcode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Sahana2803/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Sahana2803/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahana2803/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Sahana2803/Leetcode/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/Sahana2803/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sahana2803/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
