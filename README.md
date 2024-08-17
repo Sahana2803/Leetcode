@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahana2803/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Sahana2803/Leetcode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Sahana2803/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Sahana2803/Leetcode/tree/master/0179-largest-number) |
 | [1835-decode-xored-permutation](https://github.com/Sahana2803/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sahana2803/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Sahana2803/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Sahana2803/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Sahana2803/Leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sahana2803/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sahana2803/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sahana2803/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Sahana2803/Leetcode/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Sahana2803/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sahana2803/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
