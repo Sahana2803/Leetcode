@@ -10,9 +10,9 @@ class Solution {
          {
             for (int j = i + 1; j < arr.length; j++)
              {
-                String order1 = arr[i] + arr[j];
-                String order2 = arr[j] + arr[i];
-                if (order1.compareTo(order2) < 0) 
+                String s1 = arr[i] + arr[j];
+                String s2 = arr[j] + arr[i];
+                if (s1.compareTo(s2) < 0) 
                 {
                     String temp = arr[i];
                     arr[i] = arr[j];
